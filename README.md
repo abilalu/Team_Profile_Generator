@@ -33,3 +33,5 @@ THEN I exit the application, and the HTML is generated
  * [Jest](https://www.npmjs.com/package/jest) for running the unit tests 
  * [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. 
  
+ ## Walkthrough Video
+ Here is the link for the walkthrough video of how this application runs https://drive.google.com/file/d/188V0ZGpsLcTNQJfbdG-dnpixVFT9jxJf/view
