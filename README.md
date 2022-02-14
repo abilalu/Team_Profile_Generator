@@ -28,3 +28,8 @@ THEN I exit the application, and the HTML is generated
 
 ## Screenshot
 ![Screenshot of HTML page](sc1.PNG)
+
+## Sources used
+ * [Jest](https://www.npmjs.com/package/jest) for running the unit tests 
+ * [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. 
+ 
